@@ -28,8 +28,14 @@ The LookML model is divided into a few folders:
 
 306 Marketing Overview:
 
-![Operations Overview Dashboard - Part 1](dashboards/ops_1.png)
+![Marketing Overview Dashboard - Part 1](dashboards/mrkt_1.png)
+![Marketing Overview Dashboard - Part 2](dashboards/markt_2.png)
 
 Advertising Pulse:
 
+![Marketing Overview Dashboard - Part 1](dashboards/ad_1.png)
+![Marketing Overview Dashboard - Part 2](dashboards/ad_2.png)
+
 Campaign Performance Lookup:
+
+![Marketing Overview Dashboard - Part 2](dashboards/cp.png)
